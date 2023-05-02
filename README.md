@@ -1,13 +1,14 @@
 # SeleniumAutomationFramework_GTLPBank
-                                                        Java Selenium Automation framework
 
-This framework is a personal project that I’ve created to learn to build an automation framework from scratch. I have automated Login Page scenarios and ‘add new customer’ feature of GTPL Bank, a demo website to practice automation.
+##                                                       Java Selenium Automation framework                                            
+
+This framework is a personal project that I’ve created to learn to build an automation framework from scratch. I have automated Login Page scenarios and ‘Add New customer’ feature of GTPL Bank, a demo website to practice automation.
 
 URL - https://demo.guru99.com/V1/index.php
 
-Test cases automated – gtplBank_TC
+Test cases automated – [gtplBank_TC](https://docs.google.com/spreadsheets/d/16YGXB2r5mvSaDtoD4AibyI-rAQpxaTNWHY7GQ6pSq0Q/edit?usp=sharing)
 
-About the framework
+### About the framework
 
 Language – Java Selenium
 
@@ -29,6 +30,9 @@ Screenshots – stores all the screenshot captured during test execution, especi
 TestNG – testing annotations used to control flow of the methods and for assetrions.
 
 Maven - a build tool that is used to download dependencies and plugins and also for execution of the script using POM.xml
+
+### Acknowledgments
+Developed this framework using this [video](https://youtu.be/M4Ye3SKT46g) as guide
 
 
 
