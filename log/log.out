@@ -1,0 +1,780 @@
+[INFO ] 2023-04-29 18:37:08,495 com.inetBanking.pageObjects.BaseClass - Open URL
+[INFO ] 2023-04-29 18:37:12,079 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-29 18:37:13,120 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-29 19:10:37,370 com.inetBanking.pageObjects.BaseClass - Open URL
+[INFO ] 2023-04-29 19:10:41,343 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-29 19:10:42,467 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-29 19:35:35,676 com.inetBanking.pageObjects.BaseClass - Open URL
+[INFO ] 2023-04-29 19:35:39,231 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-29 19:35:40,418 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-29 19:43:32,744 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-29 19:43:36,925 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-29 19:43:39,255 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-29 20:15:02,534 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-29 20:15:06,973 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-29 20:15:08,134 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-30 15:27:23,403 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 15:29:14,824 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 15:31:57,218 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 15:38:38,509 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 15:38:42,487 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-30 15:38:43,573 com.inetBanking.pageObjects.BaseClass - logged in
+[INFO ] 2023-04-30 17:31:08,334 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 17:31:12,968 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-04-30 17:42:36,070 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 17:52:45,074 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 17:53:20,485 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 17:57:17,398 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 17:58:07,853 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:01:29,691 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:02:02,732 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:06:19,262 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:08:22,349 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:13:59,856 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:15:43,899 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:26:03,786 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:26:11,131 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 18:26:14,537 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-04-30 18:29:35,701 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:29:42,228 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 18:44:06,149 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:44:12,244 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 18:44:45,118 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:44:51,333 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 18:46:08,733 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 18:46:15,122 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 18:46:17,711 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-04-30 19:13:27,272 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 19:13:33,686 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 19:14:49,707 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-04-30 19:14:55,676 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-04-30 19:14:59,469 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-01 09:42:24,848 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:42:28,787 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:42:28,788 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:43:28,801 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:43:32,748 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:43:32,749 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:44:20,806 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:44:26,383 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:44:26,385 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:44:33,241 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:44:33,252 com.inetBanking.pageObjects.BaseClass - failed to add new customer
+[INFO ] 2023-05-01 09:45:57,041 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:46:02,324 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:46:02,325 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:46:10,703 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:46:10,715 com.inetBanking.pageObjects.BaseClass - failed to add new customer
+[INFO ] 2023-05-01 09:47:39,996 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:47:45,024 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:47:45,025 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:47:55,045 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:47:55,071 com.inetBanking.pageObjects.BaseClass - failed to add new customer
+[INFO ] 2023-05-01 09:48:40,554 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:48:45,183 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:48:45,185 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:50:02,135 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:50:02,208 com.inetBanking.pageObjects.BaseClass - failed to add new customer
+[INFO ] 2023-05-01 09:52:52,605 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:52:59,190 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:52:59,197 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:53:31,344 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:53:31,414 com.inetBanking.pageObjects.BaseClass - failed to add new customer
+[INFO ] 2023-05-01 09:54:00,499 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:54:06,398 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:54:06,406 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:54:54,685 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:54:59,901 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 09:56:22,097 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:56:27,452 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:56:27,453 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:56:39,024 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:56:57,144 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 09:57:01,919 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 09:57:01,921 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 09:57:14,501 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 09:57:14,518 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 10:02:49,788 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 10:02:53,427 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 10:02:58,867 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 10:02:58,869 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 10:03:11,724 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 10:03:11,738 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 11:02:25,720 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 11:02:30,221 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 11:02:35,858 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 11:02:35,859 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 11:02:48,880 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 11:02:48,892 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 14:18:06,802 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:18:10,717 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:18:16,339 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:19:05,748 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:19:09,017 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:19:14,122 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:22:28,695 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:22:32,026 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:22:37,206 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:23:08,564 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:25:44,085 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:25:47,877 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:25:53,026 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:26:35,119 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:26:38,053 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:26:43,690 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:29:19,322 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:29:22,348 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:29:28,678 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:30:46,888 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:30:49,828 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:30:54,380 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:33:24,538 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:33:27,592 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:33:32,001 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:35:44,182 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:35:47,460 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:35:52,010 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:35:52,015 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:37:02,544 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:37:05,815 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:37:10,588 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:39:02,273 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:39:06,054 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:39:59,493 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:40:02,412 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:40:09,618 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:40:13,937 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:43:28,840 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:43:31,878 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:43:43,161 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:43:45,377 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:45:21,446 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:45:24,387 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:45:34,299 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:45:36,104 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:46:26,274 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:46:29,236 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:46:37,225 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:46:39,618 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:49:31,790 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:49:34,905 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:49:42,609 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:49:44,063 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:50:27,045 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:50:29,992 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:50:37,696 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:50:39,007 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:51:08,426 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 14:51:08,505 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 14:51:32,981 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:51:35,927 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:51:41,577 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:52:09,460 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:52:12,531 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:52:17,565 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:52:17,566 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:52:55,752 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:52:58,744 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:53:02,811 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:53:24,221 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:53:27,180 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:53:32,832 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:53:32,833 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:53:55,587 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 14:53:55,650 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 14:54:09,588 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:54:12,578 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:54:17,241 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:54:17,243 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:55:11,535 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:55:14,946 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:55:19,798 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:55:19,799 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:55:55,679 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:55:58,976 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:56:08,008 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:56:09,591 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:57:44,782 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:57:47,748 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:58:05,481 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:58:06,705 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 14:59:03,967 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 14:59:06,845 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 14:59:13,464 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 14:59:14,726 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:02:06,419 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:02:09,550 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:02:14,908 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:02:14,910 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:03:13,685 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:03:16,544 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:03:24,967 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:03:26,287 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:04:56,375 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:04:59,283 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:05:06,736 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:05:09,400 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:09:30,165 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:09:33,103 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:09:37,838 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:09:37,847 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:12:57,760 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 15:12:57,818 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 15:17:44,380 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:17:48,787 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:17:53,743 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:17:53,747 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:20:31,464 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:20:34,786 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:20:40,090 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:20:40,092 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:24:56,201 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:24:59,118 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:25:05,887 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:25:05,896 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:26:31,491 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:26:34,558 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:26:39,738 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:26:39,745 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:28:34,641 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:28:37,453 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:29:00,107 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:29:00,116 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:32:06,005 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:32:09,085 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:32:14,993 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:32:14,998 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:35:01,263 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:35:04,164 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:35:10,475 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:35:10,485 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:35:45,713 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 15:35:45,865 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 15:35:56,320 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:35:59,252 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:36:03,991 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:36:03,992 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:39:39,966 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:39:42,913 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:39:49,781 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:39:49,782 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:40:01,446 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 15:45:57,739 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:46:00,848 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:46:07,530 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:46:07,531 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:46:19,611 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 15:46:19,648 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 15:46:54,177 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:46:57,104 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:47:02,622 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 15:47:02,623 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 15:47:23,678 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 15:47:23,712 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 15:47:58,431 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 15:48:01,401 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 15:48:06,271 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:42:59,698 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:43:03,288 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:43:29,744 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:43:32,888 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:43:38,250 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:43:38,251 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 17:44:21,367 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:44:24,249 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:44:30,108 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:44:30,109 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 17:44:35,596 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 17:44:35,606 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 17:46:18,831 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:46:21,663 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:46:27,936 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:46:27,938 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 17:46:30,666 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 17:46:30,686 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 17:47:11,888 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:47:14,851 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:47:19,556 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:47:19,557 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 17:47:21,518 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 17:47:30,673 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:47:33,661 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:47:46,537 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 17:47:49,551 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 17:47:54,406 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 17:47:54,407 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 17:47:57,158 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 17:47:57,168 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 18:09:43,035 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:09:47,086 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:09:52,446 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:09:52,446 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:09:54,292 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:10:16,048 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:10:19,144 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:10:24,047 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:10:24,048 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:10:27,833 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:10:27,851 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 18:12:00,950 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:12:04,098 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:12:10,438 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:12:10,439 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:12:13,280 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:12:13,291 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 18:13:24,671 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:13:27,804 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:13:33,679 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:13:33,680 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:13:36,366 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:13:36,376 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-01 18:27:51,624 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:27:54,769 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:28:00,916 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:28:00,917 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:28:02,149 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:28:14,471 com.inetBanking.pageObjects.BaseClass - satarting a TC
+[INFO ] 2023-05-01 18:28:17,422 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:28:22,670 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:28:22,672 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:28:23,843 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:29:59,433 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:30:03,385 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:30:09,705 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:30:09,705 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:30:10,532 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:30:38,081 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:30:41,052 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:30:47,006 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:30:47,007 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:31:02,018 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:32:26,667 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:32:29,749 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:32:34,478 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:32:34,479 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:32:35,138 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:33:47,710 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:33:50,775 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:33:55,681 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:33:55,682 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:33:56,374 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:35:57,696 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:36:00,818 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:36:07,217 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:36:07,218 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:36:07,974 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:39:32,848 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:39:36,172 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:39:43,662 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:39:43,664 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:39:44,425 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:48:00,523 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:48:03,737 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:48:08,689 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:48:08,689 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:48:09,526 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:48:09,666 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 18:48:12,060 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 18:56:32,530 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:56:35,547 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:56:41,964 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:56:41,965 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:56:43,110 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:56:43,154 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 18:56:43,190 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 18:57:19,146 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 18:57:22,100 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 18:57:28,048 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 18:57:28,052 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 18:57:29,585 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 18:57:29,626 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 18:57:29,661 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:02:23,618 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:02:26,539 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:02:31,667 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:02:31,669 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:02:32,962 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:02:32,997 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:02:33,030 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:03:43,679 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:03:46,770 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:03:54,452 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:03:54,453 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:03:55,688 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:19:10,619 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:19:14,034 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:19:20,627 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:19:20,627 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:19:21,708 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:20:43,645 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:20:46,721 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:20:52,549 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:20:52,550 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:20:53,911 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:21:22,484 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:21:25,255 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:21:31,440 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:21:31,441 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:21:32,553 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:22:25,925 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:22:28,929 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:22:35,880 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:22:35,886 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:22:38,318 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:23:10,573 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:23:13,539 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:23:20,523 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:23:20,525 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:23:21,634 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:24:13,247 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:24:16,352 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:24:22,975 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:24:22,976 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:24:24,153 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:25:03,203 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:25:06,219 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:25:11,240 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:25:11,242 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:25:12,353 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:25:15,517 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:25:16,551 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:26:24,380 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:26:27,556 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:26:32,499 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:26:32,501 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:26:33,620 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:26:39,186 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:26:53,397 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:28:11,854 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:28:14,930 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:28:21,638 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:28:21,640 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:28:22,787 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:28:37,390 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:28:46,732 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:30:31,171 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:30:34,396 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:33:03,573 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:33:03,574 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:33:41,030 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:33:44,054 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:33:50,395 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:33:50,396 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:33:51,540 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:33:54,014 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:33:55,865 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:33:57,059 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:33:58,050 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:33:58,948 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:33:59,858 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:18,140 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:35:20,826 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:35:26,945 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:35:26,946 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:35:28,088 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:35:30,706 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:31,671 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:32,453 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:33,268 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:34,057 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:35:35,490 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:21,889 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:36:24,789 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:36:31,534 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:36:31,536 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:36:33,330 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:36:33,370 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,407 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,449 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,489 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,524 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,557 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:36:33,619 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:39:04,659 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:39:07,639 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:39:13,814 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:39:13,815 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:39:15,074 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:39:15,123 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:15,170 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:15,216 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:15,264 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:15,309 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:15,354 com.inetBanking.pageObjects.BaseClass - Message is displayed
+[INFO ] 2023-05-01 19:39:32,135 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:39:34,944 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:39:40,856 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:39:40,857 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:39:43,320 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:39:43,354 com.inetBanking.pageObjects.BaseClass - Customer name must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:43,389 com.inetBanking.pageObjects.BaseClass - City Field must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:43,423 com.inetBanking.pageObjects.BaseClass - State must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:43,458 com.inetBanking.pageObjects.BaseClass - PIN Code must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:43,493 com.inetBanking.pageObjects.BaseClass - Mobile no must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:43,529 com.inetBanking.pageObjects.BaseClass - Email-ID must not be blank Message is displayed
+[INFO ] 2023-05-01 19:39:53,852 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:42:55,532 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:42:58,656 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:43:05,332 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:43:05,333 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:43:07,195 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:43:07,233 com.inetBanking.pageObjects.BaseClass - Customer name must not be blank Message is displayed
+[INFO ] 2023-05-01 19:43:07,272 com.inetBanking.pageObjects.BaseClass - City Field must not be blank Message is displayed
+[INFO ] 2023-05-01 19:43:07,308 com.inetBanking.pageObjects.BaseClass - State must not be blank Message is displayed
+[INFO ] 2023-05-01 19:43:07,347 com.inetBanking.pageObjects.BaseClass - PIN Code must not be blank Message is displayed
+[INFO ] 2023-05-01 19:43:07,388 com.inetBanking.pageObjects.BaseClass - Mobile no must not be blank Message is displayed
+[INFO ] 2023-05-01 19:43:07,424 com.inetBanking.pageObjects.BaseClass - Email-ID must not be blank Message is displayed
+[INFO ] 2023-05-01 19:44:06,336 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:44:07,681 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:44:13,144 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:44:13,145 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:44:15,722 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:44:15,755 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:44:15,788 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:44:15,820 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:44:15,851 com.inetBanking.pageObjects.BaseClass - Characters are not allowed Message is displayed
+[INFO ] 2023-05-01 19:44:15,885 com.inetBanking.pageObjects.BaseClass - Characters are not allowed Message is displayed
+[INFO ] 2023-05-01 19:44:15,916 com.inetBanking.pageObjects.BaseClass - Email-ID is not valid Message is displayed
+[INFO ] 2023-05-01 19:44:15,916 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:44:56,914 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:45:00,336 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:45:06,468 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:45:06,469 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:45:07,483 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:45:07,532 com.inetBanking.pageObjects.BaseClass - Customer name must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,567 com.inetBanking.pageObjects.BaseClass - City Field must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,600 com.inetBanking.pageObjects.BaseClass - State must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,632 com.inetBanking.pageObjects.BaseClass - PIN Code must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,664 com.inetBanking.pageObjects.BaseClass - Mobile no must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,696 com.inetBanking.pageObjects.BaseClass - Email-ID must not be blank Message is displayed
+[INFO ] 2023-05-01 19:45:07,782 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:45:07,864 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:45:09,248 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:45:15,001 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:45:15,001 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:45:16,158 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:45:16,196 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:45:16,232 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:45:16,263 com.inetBanking.pageObjects.BaseClass - Numbers are not allowed Message is displayed
+[INFO ] 2023-05-01 19:45:16,294 com.inetBanking.pageObjects.BaseClass - Characters are not allowed Message is displayed
+[INFO ] 2023-05-01 19:45:16,325 com.inetBanking.pageObjects.BaseClass - Characters are not allowed Message is displayed
+[INFO ] 2023-05-01 19:45:16,362 com.inetBanking.pageObjects.BaseClass - Email-ID is not valid Message is displayed
+[INFO ] 2023-05-01 19:45:16,362 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:56:24,580 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:56:27,674 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:56:34,613 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:56:34,616 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:56:36,771 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:56:37,226 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-01 19:56:37,232 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-01 19:56:38,765 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-01 19:56:44,173 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-01 19:56:44,173 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-01 19:56:45,350 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-01 19:56:45,669 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:16:53,643 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:16:53,643 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:16:53,645 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:16:59,271 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:16:59,271 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:16:59,271 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:06,209 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:17:06,211 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:17:07,155 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:17:10,486 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:17:12,226 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:17,557 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:23,834 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-05-02 11:17:26,656 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-05-02 11:17:26,837 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:17:28,733 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:34,929 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:17:34,933 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:17:36,421 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:41,277 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:17:41,281 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:17:43,324 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:17:48,786 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:18:34,368 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:18:37,912 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:18:42,756 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-05-02 11:18:44,588 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:18:46,417 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:18:51,267 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:18:51,271 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:18:53,125 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:18:59,859 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:18:59,863 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:19:02,412 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:19:09,157 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:23:13,173 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:23:16,147 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:23:21,201 com.inetBanking.pageObjects.BaseClass - Login passed
+[INFO ] 2023-05-02 11:23:22,858 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:23:24,739 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:23:29,466 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:23:29,470 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:23:31,286 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:23:36,243 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:23:36,251 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:23:39,620 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:23:48,521 com.inetBanking.pageObjects.BaseClass - Login failed
+[INFO ] 2023-05-02 11:26:36,247 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:26:39,467 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:26:44,234 com.inetBanking.pageObjects.BaseClass - TC Passed: Login passed with valid credentials
+[INFO ] 2023-05-02 11:26:45,783 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:26:47,187 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:26:52,581 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:26:52,584 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:26:54,227 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:26:59,351 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:26:59,356 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:27:01,904 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:27:07,382 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:27:51,203 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:27:51,203 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:27:52,141 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:27:56,217 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:27:56,217 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:27:56,516 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:28:01,312 com.inetBanking.pageObjects.BaseClass - TC Passed: Login passed with valid credentials
+[INFO ] 2023-05-02 11:28:02,892 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:28:06,016 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:28:32,797 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:28:32,799 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:28:32,816 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:28:36,925 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:28:37,071 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:28:39,636 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:28:46,599 com.inetBanking.pageObjects.BaseClass - TC Passed: Login passed with valid credentials
+[INFO ] 2023-05-02 11:28:56,646 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:29:01,637 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:29:06,932 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:30:09,520 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:30:09,520 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:30:09,521 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:30:14,336 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:30:14,443 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:30:14,642 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:30:19,832 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:30:19,833 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:30:42,679 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:30:42,996 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:31:31,736 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:31:31,735 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:31:31,737 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:31:36,558 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:31:36,558 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:31:36,621 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:31:41,935 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:31:41,936 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:31:54,078 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:31:54,078 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:32:42,742 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:32:42,741 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:32:42,743 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:32:47,543 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:32:47,653 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:32:48,048 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:32:54,339 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:32:54,342 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:33:33,373 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:33:36,779 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:33:41,931 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:33:41,932 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:33:44,897 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:33:45,329 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:33:45,337 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:33:46,600 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:33:50,736 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:33:50,736 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:33:51,879 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:33:52,172 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:33:52,177 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:33:53,677 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:33:58,465 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:33:58,465 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:34:51,821 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:34:55,329 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:35:00,491 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:35:00,492 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:35:01,590 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:35:02,051 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:35:02,059 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:35:03,427 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:35:08,395 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:35:08,395 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:35:09,429 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:35:09,777 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:35:09,781 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:35:11,574 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:35:18,685 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:35:18,685 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:35:21,446 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:35:21,469 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-02 11:35:21,563 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:35:57,592 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:36:00,434 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:36:05,403 com.inetBanking.pageObjects.BaseClass - TC Passed: Login passed with valid credentials
+[INFO ] 2023-05-02 11:36:06,971 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:36:08,469 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:36:13,526 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:36:13,593 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:36:15,098 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:36:21,690 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:36:21,757 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:36:23,084 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:37:49,642 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:37:51,189 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:37:57,312 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:37:57,314 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:37:58,350 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:37:58,772 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:37:58,835 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:38:00,346 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:38:05,059 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:38:05,059 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:38:06,275 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:38:06,571 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:38:06,633 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:38:08,117 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:38:12,321 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:38:12,322 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:38:14,787 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:38:14,807 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-02 11:38:14,974 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:38:38,649 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:38:41,693 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:38:49,185 com.inetBanking.pageObjects.BaseClass - TC Passed: Login passed with valid credentials
+[INFO ] 2023-05-02 11:38:51,157 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:38:52,603 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:38:57,903 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:38:58,146 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:38:59,560 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:04,474 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:39:04,731 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:39:06,106 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:12,196 com.inetBanking.pageObjects.BaseClass - TC Passed:Login failed due to invalid credentials
+[INFO ] 2023-05-02 11:39:12,409 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:39:13,831 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:20,031 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:39:20,032 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:39:21,220 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:39:21,640 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:39:21,837 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:39:23,282 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:28,209 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:39:28,210 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:39:34,128 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:39:34,397 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:39:34,733 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:39:36,432 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:43,047 com.inetBanking.pageObjects.BaseClass - loggen in
+[INFO ] 2023-05-02 11:39:43,047 com.inetBanking.pageObjects.BaseClass - adding new customer details
+[INFO ] 2023-05-02 11:39:45,990 com.inetBanking.pageObjects.BaseClass - start validation ...
+[INFO ] 2023-05-02 11:39:45,999 com.inetBanking.pageObjects.BaseClass - new customer successfully added
+[INFO ] 2023-05-02 11:39:46,181 com.inetBanking.pageObjects.BaseClass - End validation ...
+[INFO ] 2023-05-02 11:39:46,366 com.inetBanking.pageObjects.BaseClass - starting a TC
+[INFO ] 2023-05-02 11:39:47,825 com.inetBanking.pageObjects.BaseClass - open url
+[INFO ] 2023-05-02 11:39:52,810 com.inetBanking.pageObjects.BaseClass - Entered userID and pwd
+[INFO ] 2023-05-02 11:39:54,007 com.inetBanking.pageObjects.BaseClass - logged in

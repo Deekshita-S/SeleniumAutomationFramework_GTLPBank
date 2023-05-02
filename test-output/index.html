@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-InetBankingV1" class="navigator-link">
+              <span class="suite-name border-passed">InetBankingV1</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-InetBankingV1" class="navigator-link ">
+                    <span>C:\Users\siva\eBankingWorkSpace\inetBankingV1\TestNg.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-InetBankingV1" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-InetBankingV1" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-InetBankingV1" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-InetBankingV1" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-InetBankingV1" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-InetBankingV1" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">8 methods,   8 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-InetBankingV1" class="hide-methods passed suite-InetBankingV1"> (hide)</a> <!-- hide-methods passed suite-InetBankingV1 -->
+                      <a href="#" panel-name="suite-InetBankingV1" class="show-methods passed suite-InetBankingV1"> (show)</a> <!-- show-methods passed suite-InetBankingV1 -->
+                    </span>
+                    <div class="method-list-content passed suite-InetBankingV1">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_AddNewCustomerTest" class="method navigator-link" hash-for-method="AddNewCustBlankFields">AddNewCustBlankFields</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_AddNewCustomerTest" class="method navigator-link" hash-for-method="AddNewCustInvalidDetails">AddNewCustInvalidDetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_AddNewCustomerTest" class="method navigator-link" hash-for-method="addNewCustomerValidDetails">addNewCustomerValidDetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_Login_DataDrivenTest" class="method navigator-link" hash-for-method="loginDDT(mngr26594, 1257567g, invalid)">loginDDT(mngr26594, 1257567g, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_Login_DataDrivenTest" class="method navigator-link" hash-for-method="loginDDT(mngr26593, gsh19023, invalid)">loginDDT(mngr26593, gsh19023, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_Login_DataDrivenTest" class="method navigator-link" hash-for-method="loginDDT(mtr123456, 1234567@, invalid)">loginDDT(mtr123456, 1234567@, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_Login_DataDrivenTest" class="method navigator-link" hash-for-method="loginDDT(mngr26593, 1234567@, valid)">loginDDT(mngr26593, 1234567@, valid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-InetBankingV1" title="com.inetBanking.TestCases.TC_LoginTest" class="method navigator-link" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-InetBankingV1 -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-InetBankingV1" class="panel InetBankingV1">
+          <div class="suite-InetBankingV1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.inetBanking.TestCases.TC_AddNewCustomerTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AddNewCustBlankFields">
+                  </a> <!-- AddNewCustBlankFields -->
+                  <span class="method-name">AddNewCustBlankFields</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="AddNewCustInvalidDetails">
+                  </a> <!-- AddNewCustInvalidDetails -->
+                  <span class="method-name">AddNewCustInvalidDetails</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="addNewCustomerValidDetails">
+                  </a> <!-- addNewCustomerValidDetails -->
+                  <span class="method-name">addNewCustomerValidDetails</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-InetBankingV1-class-passed -->
+          <div class="suite-InetBankingV1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.inetBanking.TestCases.TC_LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginTest">
+                  </a> <!-- loginTest -->
+                  <span class="method-name">loginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-InetBankingV1-class-passed -->
+          <div class="suite-InetBankingV1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.inetBanking.TestCases.TC_Login_DataDrivenTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginDDT(mngr26594, 1257567g, invalid)">
+                  </a> <!-- loginDDT(mngr26594, 1257567g, invalid) -->
+                  <span class="method-name">loginDDT</span>
+                  <span class="parameters">(mngr26594,1257567g,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginDDT(mngr26593, gsh19023, invalid)">
+                  </a> <!-- loginDDT(mngr26593, gsh19023, invalid) -->
+                  <span class="method-name">loginDDT</span>
+                  <span class="parameters">(mngr26593,gsh19023,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginDDT(mtr123456, 1234567@, invalid)">
+                  </a> <!-- loginDDT(mtr123456, 1234567@, invalid) -->
+                  <span class="method-name">loginDDT</span>
+                  <span class="parameters">(mtr123456,1234567@,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginDDT(mngr26593, 1234567@, valid)">
+                  </a> <!-- loginDDT(mngr26593, 1234567@, valid) -->
+                  <span class="method-name">loginDDT</span>
+                  <span class="parameters">(mngr26593,1234567@,valid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-InetBankingV1-class-passed -->
+        </div> <!-- panel InetBankingV1 -->
+        <div panel-name="test-xml-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\siva\eBankingWorkSpace\inetBankingV1\TestNg.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;InetBankingV1&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;BankingApp test&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.inetBanking.TestCases.TC_Login_DataDrivenTest&quot;/&gt;
+      &lt;class name=&quot;com.inetBanking.TestCases.TC_AddNewCustomerTest&quot;/&gt;
+      &lt;class name=&quot;com.inetBanking.TestCases.TC_LoginTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- BankingApp test --&gt;
+&lt;/suite&gt; &lt;!-- InetBankingV1 --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for InetBankingV1</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">BankingApp test (3 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for InetBankingV1</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for InetBankingV1</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_InetBankingV1');
+function tableData_InetBankingV1() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(8);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'AddNewCustInvalidDetails')
+data.setCell(0, 2, 'com.inetBanking.TestCases.TC_AddNewCustomerTest')
+data.setCell(0, 3, 7532);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'addNewCustomerValidDetails')
+data.setCell(1, 2, 'com.inetBanking.TestCases.TC_AddNewCustomerTest')
+data.setCell(1, 3, 4408);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'loginDDT')
+data.setCell(2, 2, 'com.inetBanking.TestCases.TC_Login_DataDrivenTest')
+data.setCell(2, 3, 4104);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'AddNewCustBlankFields')
+data.setCell(3, 2, 'com.inetBanking.TestCases.TC_AddNewCustomerTest')
+data.setCell(3, 3, 2861);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'loginDDT')
+data.setCell(4, 2, 'com.inetBanking.TestCases.TC_Login_DataDrivenTest')
+data.setCell(4, 3, 1599);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'loginTest')
+data.setCell(5, 2, 'com.inetBanking.TestCases.TC_LoginTest')
+data.setCell(5, 3, 1598);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'loginDDT')
+data.setCell(6, 2, 'com.inetBanking.TestCases.TC_Login_DataDrivenTest')
+data.setCell(6, 3, 1490);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'loginDDT')
+data.setCell(7, 2, 'com.inetBanking.TestCases.TC_Login_DataDrivenTest')
+data.setCell(7, 3, 1445);
+window.suiteTableData['InetBankingV1']= { tableData: data, tableDiv: 'times-div-InetBankingV1'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 25 seconds</span>
+              <div id="times-div-InetBankingV1">
+              </div> <!-- times-div-InetBankingV1 -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for InetBankingV1</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-InetBankingV1" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.inetBanking.TestCases.TC_Login_DataDrivenTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginDDT(mngr26593, 1234567@, valid)</span>
+                <span class="method-start">8225 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">12332 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">12580 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginDDT(mngr26594, 1257567g, invalid)</span>
+                <span class="method-start">17837 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">19329 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">19568 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginDDT(mngr26593, gsh19023, invalid)</span>
+                <span class="method-start">24453 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">25900 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">26151 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginDDT(mtr123456, 1234567@, invalid)</span>
+                <span class="method-start">32021 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">33624 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">33829 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.inetBanking.TestCases.TC_AddNewCustomerTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">33831 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">AddNewCustBlankFields</span>
+                <span class="method-start">40203 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">43068 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">43260 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">AddNewCustInvalidDetails</span>
+                <span class="method-start">48289 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">55824 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">56156 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">addNewCustomerValidDetails</span>
+                <span class="method-start">63197 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">67607 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.inetBanking.TestCases.TC_LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">67789 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.inetBanking.TestCases.TC_AddNewCustomerTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">67789 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.inetBanking.TestCases.TC_LoginTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">loginTest</span>
+                <span class="method-start">74060 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">TesttearDown</span>
+                <span class="method-start">75662 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">75897 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
